@@ -1,0 +1,11 @@
+* {
+  background-color: #b789dc;
+}
+body{
+    margin:0px;
+    margin-top: 20px;
+}
+canvas{
+    margin:0 auto;
+  border: 10px solid #9960c7;
+}
