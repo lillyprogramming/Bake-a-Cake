@@ -5,8 +5,8 @@ My sister and I created this game in 2021 as our final project for a programming
 
 ## Tech Stack
 
-- Code: Phaser.js, CSS, JavaScript
-- Art: Medibang Pro
+- Code: `Phaser.js`, `CSS`, `JavaScript`
+- Art: `Medibang Pro`
 
 ## Screenshots
 
