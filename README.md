@@ -1,19 +1,14 @@
-# About
+# Bake-a-Cake
 
 Bake-a-Cake is a cute puzzle game about making a cake. The goal of the game is to gather all the ingredients which are scattered around the house until you have everything the recipe calls for.
 My sister and I created this game in 2021 as our final project for a programming class and later we enrolled in a competition with it.
 
-# Tech Stack
+## Tech Stack
 
 - Code: Phaser.js, CSS, JavaScript
 - Art: Medibang Pro
 
-# Authors
-
-- Code: Lilia Dimitrova
-- Artwork: Desislava Dimitrova
-
-# Screenshots
+## Screenshots
 
 <table>
   <tr>
@@ -34,7 +29,12 @@ My sister and I created this game in 2021 as our final project for a programming
   </tr>
 </table>
 
-# Links
+## Links
 
 The game is ready to be played through: https://lillyprogramming.github.io/Bake-a-Cake/
 (But keep in mind that it might take some time for it to load)
+
+## Authors
+
+- Code: Lilia Dimitrova
+- Artwork: Desislava Dimitrova
