@@ -32,6 +32,7 @@ My sister and I created this game in 2021 as our final project for a programming
 ## Links
 
 The game is ready to be played through: https://lillyprogramming.github.io/Bake-a-Cake/
+
 (But keep in mind that it might take some time for it to load)
 
 ## Authors
